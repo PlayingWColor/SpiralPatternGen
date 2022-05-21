@@ -1,0 +1,43 @@
+﻿  CircleMove.cpp
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\minequest\circlemove.cpp(14): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\minequest\circlemove.cpp(39): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+  CircleTest.cpp
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\minequest\circletest.cpp(17): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Component.cpp
+  ContainerTest.cpp
+  Debug.cpp
+  EventTracker.cpp
+  Globle.cpp
+  main.cpp
+  Node.cpp
+  PatternGenerator.cpp
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\minequest\patterngenerator.cpp(38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Rainbowify.cpp
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\minequest\rainbowify.cpp(34): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Scene.cpp
+  SetFramerate.cpp
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\minequest\setframerate.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SimplePencil.cpp
+  Spinner.cpp
+  Generating Code...
+  MineQuest.vcxproj -> C:\Users\Xenolupus\GameDev\Projects\SpiralPatternGen\Debug\MineQuest.exe

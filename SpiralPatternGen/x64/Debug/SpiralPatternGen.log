@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MineQuest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PatternGenerator.cpp
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\spiralpatterngen\patterngenerator.cpp(32): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\spiralpatterngen\patterngenerator.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\spiralpatterngen\patterngenerator.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\spiralpatterngen\patterngenerator.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\xenolupus\gamedev\projects\spiralpatterngen\spiralpatterngen\patterngenerator.cpp(47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  SpiralPatternGen.vcxproj -> C:\Users\Xenolupus\GameDev\Projects\SpiralPatternGen\x64\Debug\SpiralPatternGen.exe
